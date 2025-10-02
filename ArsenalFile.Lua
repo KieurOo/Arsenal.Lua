@@ -1,3 +1,5 @@
+https://raw.githubusercontent.com/KieurOo/Arsenal.Lua/refs/heads/main/ArsenalFile.Lua
+
 local Players         = game:GetService("Players")
 local TweenService    = game:GetService("TweenService")
 local UserInputService= game:GetService("UserInputService")
